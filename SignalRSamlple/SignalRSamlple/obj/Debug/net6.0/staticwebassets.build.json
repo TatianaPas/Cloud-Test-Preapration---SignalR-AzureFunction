@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3HVwcdznUgRmQVytA/UM6R8bGnx+3kZ2mLe8PmOTa5E=",
+  "Hash": "3GRH4sIkQYPXr9+WpnqD00+gpHXg+MEC2YL9Wx4Q3qc=",
   "Source": "SignalRSamlple",
   "BasePath": "_content/SignalRSamlple",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\tatja\\OneDrive\\Desktop\\Cloud Test Preparation\\Cloud-Test-Preapration---SignalR-AzureFunction\\SignalRSamlple\\SignalRSamlple\\wwwroot\\js\\DeathlyHallows.js",
+      "SourceId": "SignalRSamlple",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tatja\\OneDrive\\Desktop\\Cloud Test Preparation\\Cloud-Test-Preapration---SignalR-AzureFunction\\SignalRSamlple\\SignalRSamlple\\wwwroot\\",
+      "BasePath": "_content/SignalRSamlple",
+      "RelativePath": "js/DeathlyHallows.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\DeathlyHallows.js"
     },
     {
       "Identity": "C:\\Users\\tatja\\OneDrive\\Desktop\\Cloud Test Preparation\\Cloud-Test-Preapration---SignalR-AzureFunction\\SignalRSamlple\\SignalRSamlple\\wwwroot\\js\\signalr.js",
